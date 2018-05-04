@@ -1,5 +1,5 @@
 # R-Phyllotaxis
-*Showing off Some R skills by drawing flowers using the Data visualization library ggplot2 (from Datacamp)*
+*Showing off Some R data viz skills by drawing flowers using the Data visualization library ggplot2 (from Datacamp)*
 
 In this Jupyter notebook I uploaded some R code to show some of my skills with ggplot2. I loved the Phyllotaxis Project on Datacamp
 which I think it delivers a very artistic way of making use of ggplot2.
